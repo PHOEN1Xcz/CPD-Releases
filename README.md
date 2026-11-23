@@ -18,6 +18,7 @@ CPD hotfix numbers (`h1`, `h2`, ...) restart for each application version and in
 
 | Published | Release |
 | --- | --- |
+| 2026-11-23 23:38 | [CPD 2.2.0 Hotfix (h1)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.0-20261123-sources-likes-active-sort) |
 | 2026-11-23 23:12 | [CPD 2.2.0](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.0) |
 | 2026-11-23 09:53 | [CPD 2.1.5 Hotfix (h18)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.1.5-20261123-viewer-modes-offline-index) |
 | 2026-11-22 13:27 | [CPD 2.1.5 Hotfix (h17)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.1.5-20261122-viewer-space-cursor) |
