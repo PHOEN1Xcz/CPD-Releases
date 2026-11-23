@@ -18,6 +18,7 @@ CPD hotfix numbers (`h1`, `h2`, ...) restart for each application version and in
 
 | Published | Release |
 | --- | --- |
+| 2026-11-23 09:53 | [CPD 2.1.5 Hotfix (h18)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.1.5-20261123-viewer-modes-offline-index) |
 | 2026-11-22 13:27 | [CPD 2.1.5 Hotfix (h17)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.1.5-20261122-viewer-space-cursor) |
 | 2026-11-22 12:19 | [CPD 2.1.5 Hotfix (h16)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.1.5-20261122-viewer-gesture-snap) |
 | 2026-11-22 10:41 | [CPD 2.1.5 Hotfix (h15)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.1.5-20261122-viewer-zoom-diagnostics) |
@@ -50,6 +51,7 @@ CPD hotfix numbers (`h1`, `h2`, ...) restart for each application version and in
 
 | Published | Release |
 | --- | --- |
+| 2026-11-23 09:55 | [CPD Remote 1.2.4 Hotfix (r102)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.2.4-r102) |
 | 2026-11-22 12:19 | [CPD Remote 1.2.4 Hotfix (r101)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.2.4-r101) |
 | 2026-11-22 10:41 | [CPD Remote 1.2.4 Hotfix (r100)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.2.4-r100) |
 | 2026-11-22 01:35 | [CPD Remote 1.2.4 Hotfix (r99)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.2.4-r99) |
