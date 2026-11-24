@@ -53,6 +53,7 @@ CPD hotfix numbers (`h1`, `h2`, ...) restart for each application version and in
 
 | Published | Release |
 | --- | --- |
+| 2026-11-24 08:25 | [CPD Remote 1.3.0 Hotfix (r105)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.3.0-r105) |
 | 2026-11-23 23:16 | [CPD Remote 1.3.0](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.3.0-r104) |
 | 2026-11-23 15:33 | [CPD Remote 1.2.5](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.2.5-r103) |
 | 2026-11-23 09:55 | [CPD Remote 1.2.4 Hotfix (r102)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/remote-v1.2.4-r102) |
