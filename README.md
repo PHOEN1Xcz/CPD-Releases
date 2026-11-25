@@ -18,6 +18,7 @@ CPD hotfix numbers (`h1`, `h2`, ...) restart for each application version and in
 
 | Published | Release |
 | --- | --- |
+| 2026-11-25 21:03 | [CPD 2.2.1 Hotfix (h2)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261125-profile-source-id-dedupe) |
 | 2026-11-24 22:47 | [CPD 2.2.1 Hotfix (h1)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261124-browser-visible-api-priority) |
 | 2026-11-24 22:14 | [CPD 2.2.1](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1) |
 | 2026-11-23 23:38 | [CPD 2.2.0 Hotfix (h1)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.0-20261123-sources-likes-active-sort) |
