@@ -18,6 +18,7 @@ CPD hotfix numbers (`h1`, `h2`, ...) restart for each application version and in
 
 | Published | Release |
 | --- | --- |
+| 2026-11-26 21:30 | [CPD 2.2.1 Hotfix (h7)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261126-startup-read-ahead-and-activity) |
 | 2026-11-26 20:31 | [CPD 2.2.1 Hotfix (h6)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261126-long-trace-and-startup-profiling) |
 | 2026-11-26 19:43 | [CPD 2.2.1 Hotfix (h5)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261126-startup-updates-and-timings) |
 | 2026-11-26 07:41 | [CPD 2.2.1 Hotfix (h4)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261126-current-activity-sources-performance) |
