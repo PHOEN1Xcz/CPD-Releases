@@ -18,6 +18,7 @@ CPD hotfix numbers (`h1`, `h2`, ...) restart for each application version and in
 
 | Published | Release |
 | --- | --- |
+| 2026-11-26 19:43 | [CPD 2.2.1 Hotfix (h5)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261126-startup-updates-and-timings) |
 | 2026-11-26 07:41 | [CPD 2.2.1 Hotfix (h4)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261126-current-activity-sources-performance) |
 | 2026-11-26 07:09 | [CPD 2.2.1 Hotfix (h3)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261126-active-source-card-layout) |
 | 2026-11-25 21:03 | [CPD 2.2.1 Hotfix (h2)](https://github.com/PHOEN1Xcz/CPD-Releases/releases/tag/cpd-v2.2.1-20261125-profile-source-id-dedupe) |
